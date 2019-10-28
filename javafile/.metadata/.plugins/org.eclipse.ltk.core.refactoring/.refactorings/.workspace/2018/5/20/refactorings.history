@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;动态数组&apos;" deleteContents="false" description="Delete resource &apos;动态数组&apos;" element1="/动态数组" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1526358762610"/>&#x0A;<refactoring comment="Delete resource &apos;对象相等&apos;" deleteContents="false" description="Delete resource &apos;对象相等&apos;" element1="/对象相等" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1526372601820"/>
+</session>
